@@ -1,4 +1,12 @@
-## ✨ Your challenge
+# Discord Bot: A Microchallenge
+
+# Introduction
+Learn how to turn yourself into a Discord bot! You’ll use Discord.py to turn your catchphrases or sayings into a bot that anyone can interact
+with. This challenge will help you build your skills in Python, and interacting with an existing code library to build a user facing application.
+
+## Difficulty = ⭐️
+
+## ✨ Getting Started
 
 create a Discord bot that responds to the following commands:
 - respond Hello {name} to command: `$hello`
